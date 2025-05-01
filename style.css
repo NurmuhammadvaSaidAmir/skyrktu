@@ -1,0 +1,38 @@
+body{
+    background-color: #FFCD38;
+}
+.box{
+    width: 850px;
+    height: 300px;
+    margin-left: 166px;
+    margin-top: 260px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+.mini{
+    width: 221px;
+    height: 235px;
+    border-radius: 9px;
+    background-color: black;
+    margin-top: 30px;
+    color: azure;
+}
+.second{
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+.minute{
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+.hour{
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
